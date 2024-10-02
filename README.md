@@ -14,7 +14,7 @@ A simple and elegant GUI for the game *Skywars*, featuring various utilities and
 ## Installation
 
 1. Ensure you are using a Roblox executor that supports Lua scripts.
-2. Copy the script from the `Toast` file provided in this repository.
+2. Copy the script from the `Toast` Or `Toast Loadstring` file provided in this repository.
 3. Open your Roblox executor and paste the script into it.
 4. Execute the script while in the *Skywars* game.
 
