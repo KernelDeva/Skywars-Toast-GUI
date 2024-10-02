@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KernelDeva/Skywars-Toast-GUI/refs/heads/main/Toast"))()
